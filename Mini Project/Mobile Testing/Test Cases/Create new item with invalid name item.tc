@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create new item with invalid name item</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>359ef5a4-51ab-449b-ad0b-b6bf94b29601</testCaseGuid>
+</TestCaseEntity>

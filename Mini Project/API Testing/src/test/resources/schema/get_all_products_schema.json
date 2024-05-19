@@ -1,0 +1,98 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "data": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "ID": {
+              "type": "integer"
+            },
+            "Name": {
+              "type": "string"
+            },
+            "Description": {
+              "type": "string"
+            },
+            "Price": {
+              "type": "integer"
+            },
+            "Ratings": {
+              "type": "integer"
+            },
+            "Categories": {
+              "type": "array",
+              "items": {}
+            }
+          },
+          "required": [
+            "ID",
+            "Name",
+            "Description",
+            "Price",
+            "Ratings",
+            "Categories"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "ID": {
+              "type": "integer"
+            },
+            "Name": {
+              "type": "string"
+            },
+            "Description": {
+              "type": "string"
+            },
+            "Price": {
+              "type": "integer"
+            },
+            "Ratings": {
+              "type": "integer"
+            },
+            "Categories": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "ID": {
+                      "type": "integer"
+                    },
+                    "Name": {
+                      "type": "string"
+                    },
+                    "Description": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "ID",
+                    "Name",
+                    "Description"
+                  ]
+                }
+              ]
+            }
+          },
+          "required": [
+            "ID",
+            "Name",
+            "Description",
+            "Price",
+            "Ratings",
+            "Categories"
+          ]
+        }
+      ]
+    }
+  },
+  "required": [
+    "data"
+  ]
+}
