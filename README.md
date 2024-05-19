@@ -26,9 +26,9 @@ Tools dan Framework.
 - Andorid Studio for Emulator (Opsional).
 
 Test Result.
-- ![alt text](![API](https://github.com/mirsyadan/mini-project_qe_muhammad-irsyad-arif-nashrullah/blob/main/Mini%20Project/Result%20API%2C%20Web%2C%20Mobile/API.png)?raw=true).
-- ![alt text](![Web](https://github.com/mirsyadan/mini-project_qe_muhammad-irsyad-arif-nashrullah/blob/main/Mini%20Project/Result%20API%2C%20Web%2C%20Mobile/Web.png)?raw=true).
-- ![alt text](![Mobile](https://github.com/mirsyadan/mini-project_qe_muhammad-irsyad-arif-nashrullah/blob/main/Mini%20Project/Result%20API%2C%20Web%2C%20Mobile/Mobile.png)?raw=true).
+- ![API](https://github.com/mirsyadan/mini-project_qe_muhammad-irsyad-arif-nashrullah/blob/main/Mini%20Project/Result%20API%2C%20Web%2C%20Mobile/API.png).
+- ![Web](https://github.com/mirsyadan/mini-project_qe_muhammad-irsyad-arif-nashrullah/blob/main/Mini%20Project/Result%20API%2C%20Web%2C%20Mobile/Web.png).
+- ![Mobile](https://github.com/mirsyadan/mini-project_qe_muhammad-irsyad-arif-nashrullah/blob/main/Mini%20Project/Result%20API%2C%20Web%2C%20Mobile/Mobile.png)
 
 Setup.
 - Pastikan sudah menyiapkan tools yang digunakan untuk mengeksekusi (jika belum ada bisa download dan install pada device).
